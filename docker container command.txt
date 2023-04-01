@@ -1,0 +1,4 @@
+you have to have a running instance of rabbitmq server
+
+
+docker run --name rabbitmq -p 5672:5672 rabbitmq
